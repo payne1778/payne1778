@@ -1,10 +1,13 @@
 # Hallo, I'm Blake! 👋
 
-### I am a second-year Computer Engineering student
+### I am a second-year Computer Engineering student 🔭
 
 ## Projects I am working on:
-- Dungeon Doomer
-- Grading Automater
+[Dungeon Doomer](https://github.com/payne1778/Dungeon-Doomer)
+  - A text-based dungeon explorer game in Java.
+
+[Grading Automater](https://github.com/OfficeCoffee/GradingFileProject)
+  - A program to help TAs automate the grading process by removing tons of manual labor.  
 
 <!--
 **payne1778/payne1778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
