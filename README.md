@@ -1,6 +1,6 @@
 # Hallo, I'm Blake! 👋
 
-### I am a second-year Computer Engineering student 🔭
+### I am a third-year Computer Engineering student 🔭
 
 ## Projects I am working on:
 [Dungeon Doomer](https://github.com/payne1778/Dungeon-Doomer)
