@@ -3,9 +3,6 @@
 ### I am a third-year Computer Engineering student 🔭
 
 ## Projects I am working on:
-[Dungeon Doomer](https://github.com/payne1778/Dungeon-Doomer)
-  - A text-based dungeon explorer game in Java.
-
 [Grading Automater](https://github.com/OfficeCoffee/GradingFileProject)
   - A program to help TAs automate the grading process by removing tons of manual labor.  
 
