@@ -1,8 +1,8 @@
 # Hallo, I'm Blake! 👋
 
 ## 🎓 Fun facts
-- I am a third-year Computer Engineering student 🔭
-- I am a Lead Computer Science Teaching Assistant for Java Programming ☕
+- I am a third-year Computer Engineering major 💻
+- I am a Lead Java Programming TA ☕
 - I drink a lot of milk 💪
 
 ## 🌱 I’m currently learning
