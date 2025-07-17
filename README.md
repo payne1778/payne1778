@@ -1,13 +1,16 @@
 # Hallo, I'm Blake! 👋
 
-### I am a third-year Computer Engineering student 🔭
+## 🎓 Fun facts
+- I am a third-year Computer Engineering student 🔭
+- I am a Lead Computer Science Teaching Assistant for Java Programming ☕
+- I drink a lot of milk 💪
 
 ## 🌱 I’m currently learning
 - Differential Equations with Matrix Algebra
 - Operating System Internals and Design in C
 - Game Programming in Unity/CSharp
 
-## 🛠️ Projects I am working on:
+## 🛠️ Projects I am working on
 - [\[Translation Library\]](https://github.com/payne1778/Translation-Library): TOML-based translation library with implementations in Python and Java
 
 - [\[Grading Automater\]](https://github.com/OfficeCoffee/GradingFileProject): A script to help Computer Science TAs automate the grading process by removing tons of manual labor
