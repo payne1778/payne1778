@@ -2,13 +2,14 @@
 
 ## 🎓 Fun facts
 - I am a third-year Computer Engineering major 💻
-- I am a Lead Java Programming TA ☕
+- I am a Lead TA for Java Programming courses ☕
 - I drink a lot of milk 💪
 
 ## 🌱 I’m currently learning
-- Differential Equations with Matrix Algebra
-- Operating System Internals and Design in C
-- Game Programming in Unity/CSharp
+- Mircoprocessor Embedded Systems in C
+- Applications of Full Stack Development 
+- Continuous Linear Systems
+- Japanese I
 
 ## 🛠️ Projects I am working on
 - [\[Translation Library\]](https://github.com/payne1778/Translation-Library): TOML-based translation library with implementations in Python and Java
@@ -18,6 +19,8 @@
 - Other Projects, will release soon!
 
 ## 💬 Ask me about 
+- Projects I am working on
+- What I'm learning currently
 - Java Swing
 - German
 
