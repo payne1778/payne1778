@@ -7,7 +7,7 @@
 
 ## 🌱 I’m currently learning
 - Mircoprocessor Embedded Systems in C
-- Applications of Full Stack Development 
+- Full Stack Software Development 
 - Continuous Linear Systems
 - Japanese I
 
