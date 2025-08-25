@@ -6,7 +6,7 @@
 - I drink a lot of milk 💪
 
 ## 🌱 I’m currently learning
-- Mircoprocessor Embedded Systems in C
+- Mircoprocessor Embedded Systems in C++
 - Full Stack Software Development 
 - Continuous Linear Systems
 - Japanese I
