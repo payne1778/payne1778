@@ -18,6 +18,15 @@
 
 - Other Projects, will release soon!
 
+## 🔭 I've previously worked on 
+
+- [\["Karto", the Car Friend Website\]](https://github.com/payne1778/cs4900-karto): In a team, I contributed to designing and implementing a website for tracking car maintenance and gas finding. Used MariaDB, Restful APIs, Java SpringBoot, Angular, and Typescript
+
+- [\[Dungeon Doomer\]](https://github.com/payne1778/resume): A 2D GUI-based dungeon explorer game written with Java Swing. Made for a game jam at my university in Spring 2024. 
+
+- [\[Translation-Library\]](https://github.com/payne1778/Translation-Library): Created a simple translation library for internationalization string retrieval for programs written in Java or Python
+
+
 ## 💬 Ask me about 
 - Projects I am working on
 - What I'm learning currently
