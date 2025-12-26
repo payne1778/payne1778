@@ -2,17 +2,17 @@
 
 ## 🎓 Fun facts
 - I am a third-year Computer Engineering major 💻
-- I am a Lead TA for Java Programming courses ☕
+- I am a lead TA for Java Programming courses ☕
+- I have a minor in German 🇩🇪
 - I drink a lot of milk 💪
 
 ## 🌱 I’m currently learning
-- Mircoprocessor Embedded Systems in C++
-- Full Stack Software Development 
-- Continuous Linear Systems
-- Japanese I
+- Host Computer Security
+- Embedded Systems
+- Japanese
 
-## 🛠️ Projects I am working on
-- [\[Translation Library\]](https://github.com/payne1778/Translation-Library): TOML-based translation library with implementations in Python and Java
+## 🛠️ I'm currently working on
+- [\[Typst Resume\]](https://github.com/payne1778/resume): My current resume / resume template (soon) written in Typst
 
 - [\[Grading Automater\]](https://github.com/OfficeCoffee/GradingFileProject): A script to help Computer Science TAs automate the grading process by removing tons of manual labor
 
