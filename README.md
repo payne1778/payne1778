@@ -13,7 +13,7 @@
 
 ## 🛠️ I'm currently working on
 - [\[Typst Resume\]](https://github.com/payne1778/resume): My current resume / resume template (soon) written in Typst
-- [\[Translation-Library\]](https://github.com/payne1778/Translation-Library): A simple translation library for internationalization string retrieval for programs written in Java or Python
+- [\[Translation-Library\]](https://github.com/payne1778/Translation-Library): A TOML based translation library for internationalization string retrieval for programs written in Java or Python
 - Other Projects, will release soon!
 
 ## 🔭 I've previously worked on
