@@ -13,13 +13,13 @@
 
 ## 🛠️ I'm currently working on
 - [\[Typst Resume\]](https://github.com/payne1778/resume): My current resume / resume template (soon) written in Typst
-- [\[Translation-Library\]](https://github.com/payne1778/Translation-Library): A TOML based translation library for internationalization string retrieval for programs written in Java or Python
+- [\[Translation-Library\]](https://github.com/payne1778/Translation-Library): A TOML based translation library for internationalization string retrieval for programs written in Python
 - Other Projects, will release soon!
 
 ## 🔭 I've previously worked on
 - [\["Karto", the car friend website\]](https://github.com/payne1778/cs4900-karto): In a team, I contributed to designing and implementing a website for tracking car maintenance and gas finding. Used MariaDB, Restful APIs, Java SpringBoot, Angular, and Typescript
 - [\[Dungeon Doomer\]](https://github.com/payne1778/Dungeon-Doomer-Old): A 2D GUI-based dungeon explorer game written with Java Swing; made for a SP24 university game jam
-- [\[Grading Automater\]](https://github.com/OfficeCoffee/GradingFileProject): A script to help computer science TAs automate the grading process
+- [\[Grading Automater\]](https://github.com/OfficeCoffee/GradingFileProject): A Python package to help Computer Science TAs automate the grading and submission organization
 
 ## 💬 Ask me about 
 - Projects I am/have worked on 
