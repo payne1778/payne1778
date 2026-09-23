@@ -1,15 +1,16 @@
 # Hallo, I'm Blake! 👋
 
-## 🎓 Fun facts
+## ✒️ Fun facts
 - I am a third-year Computer Engineering major 💻
-- I am a lead TA for Java Programming courses ☕
+- I been a lead TA for Java Programming courses for 2 years ☕
 - I have a minor in German 🇩🇪
+- I am graduating in December 🎓 
 - I am very lactose tolerant 💪
 
 ## 🌱 I’m currently learning
-- Host Computer Security 🛡️
-- Embedded Systems 🎛️
-- Japanese 🇯🇵
+- Statistics for Engineers 😭
+- Embedded Systems Interns and Design 🎛️
+- Comparative Programming Languages (w/ Python, Java, Lisp, Rust) 
 
 ## 🛠️ I'm currently working on
 - [\[Translation-Library\]](https://github.com/payne1778/Translation-Library): A TOML based translation library for internationalization string retrieval for programs written in Python
